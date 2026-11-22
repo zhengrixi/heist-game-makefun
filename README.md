@@ -21,10 +21,10 @@ http://localhost:8080.
 Entered in the make.fun bounty **Make the best heist game**
 (best-heist-game-20261122-0559):
 
-![Competition](https://make.fun/badge/best-heist-game-20261122-0559.svg)
-![Rank](https://make.fun/badge/best-heist-game-20261122-0559/zhengrixi/heist-game-makefun/rank.svg)
-![Reward](https://make.fun/badge/best-heist-game-20261122-0559/zhengrixi/heist-game-makefun/reward.svg)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/zhengrixi/heist-game-makefun/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/zhengrixi/heist-game-makefun/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
-Bounty page: https://make.fun/bounty/best-heist-game-20261122-0559
+Bounty page: [https://make.fun/bounty/best-heist-game-20261122-0559](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 License: MIT.
